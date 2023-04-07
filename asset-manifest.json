@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AzzyNews/static/css/main.073c9b0a.css",
+    "main.js": "/AzzyNews/static/js/main.8a7d2766.js",
+    "static/js/787.6dec39ee.chunk.js": "/AzzyNews/static/js/787.6dec39ee.chunk.js",
+    "static/media/logo.svg": "/AzzyNews/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AzzyNews/index.html",
+    "main.073c9b0a.css.map": "/AzzyNews/static/css/main.073c9b0a.css.map",
+    "main.8a7d2766.js.map": "/AzzyNews/static/js/main.8a7d2766.js.map",
+    "787.6dec39ee.chunk.js.map": "/AzzyNews/static/js/787.6dec39ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8a7d2766.js"
+  ]
+}
