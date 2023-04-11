@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+
+.news-page {
+  .article {
+    width: 90%;
+    margin: 5rem auto;
+    img {
+      max-height: 400px;
+      margin: auto;
+      border: 10px solid #fff;
+      box-shadow: 5px 5px 10px #777;
+    }
+  }
+}

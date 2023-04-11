@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  box-shadow: 5px 5px 25px #999;
+  margin: 2rem 0;
+  .header-content {
+    flex: 1;
+    background: #f8f3eb;
+    padding: 3rem 2rem;
+    h1 {
+      font-size: 3rem;
+    }
+  }
+  .header-image {
+    flex: 1;
+    img {
+      height: 100%;
+    }
+  }
+}
